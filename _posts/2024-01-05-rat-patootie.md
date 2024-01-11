@@ -1,8 +1,7 @@
 ---
 layout: post-no-feature
 title: "Rat Patootie"
-description: "Or: This Whole Thing Would Have Been Easier If We Knew Derrick \
-              \Could Shapeshift From The Beginning"
+description: "Or: This Whole Thing Would Have Been Easier If We Knew Derrick Could Shapeshift From The Beginning"
 category: adventures
 ---
 
