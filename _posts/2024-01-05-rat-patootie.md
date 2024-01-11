@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Rat Patootie"
-description: "Or: This Whole Thing Would Have Been Easier If We Knew Derrick Could Shapeshift From The Beginning"
+description: "Or: This Whole Thing Would Have Been Easier If We Knew Coriol Could Shapeshift From The Beginning"
 category: adventures
 ---
 
@@ -95,19 +95,19 @@ I smile as warmly as I can, given the weather. "We're with the Royal
 Sekretorium, we're here seeking special information for the queen."
 
 I know we're in trouble when he raises his eyebrows and steeples his fingers in
-front of his chin. "How interesting. I am the head archivist for the
-Sekretorium, and I don't remember assigning you to this project."
+front of his chin. "How interesting. I am Lasaro Herano, the head archivist for
+the Sekretorium, and I don't remember assigning you to this project."
 
 "Oh, we're not here for your project." I've known Igni long enough to know that
 the helpful tone of his voice is pure fabrication, but I doubt the archivist can
 tell. "We're here on _special_ business." He eyes the guards around us. "If we
 can have just a few moments of privacy, we'd be happy to explain."
 
-The archivist dismissed the guards with a wave of his hand. When they've cleared
+Lasaro dismisses the guards with a wave of his hand. When they've cleared
 out and he's sure we're alone, Igni leans forward conspiratorially. "We're
 here to find information about the Throne of Symbar."
 
-The archivists face turns red. "Why do you think that this information would
+The archivist's face turns red. "Why do you think that this information would
 be inside the cathedral? And what exactly do you think you will find that my
 team could not?"
 
@@ -120,13 +120,14 @@ the information we seek _is_ time sensitive, so we thought we'd come and get it
 ourselves."
 
 "And how do I know you're actually working on _special business_ for the
-queen?" The head arcivist reminds me of a cat who has cornered a mouse.
+queen?" The head archivist reminds me of a cat who thinks he has cornered a
+mouse.
 
 The ends of Igni's hair begin to lift as if blown by an invisible breeze. "Well
 if you want to be sure, you can, of course, verify this information with her
 and delay our time sensitive mission."
 
-The archivist doesn't even hesitate. "I will. You may come back tomorrow, after
+Lasaro doesn't even hesitate. "I will. You may come back tomorrow, after
 I ask the queen about this." He lowers his head to read the scroll spread across
 the desk; we don't need a clearer dismissal.
 
@@ -163,9 +164,9 @@ archivists as well."
 At a wave of the archivist's hand, two archivists emerge from the back room and
 lead us in the direction of the cathedral ruins.
 
-"I am Lasaro Heranor, and it is my pleasure to escort you today. What is it that
-you're looking for here in the ruins?" The archivist's voice isn't as icy as his
-superior's, but I wouldn't characterize it as friendly, either.
+"What is it that you're looking for here in the ruins?" The archivist's voice
+isn't as icy as his superior's, but I wouldn't characterize it as friendly,
+either.
 
 "Well, we're looking for information on Davokar, so we'd like to see the oldest
 texts you have available."
