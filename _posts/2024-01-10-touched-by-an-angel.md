@@ -196,7 +196,7 @@ as we watch, cold emenating from him as he moves. Coriol twists to the side, and
 we can see the frost of his breath as the wraith flies past him. It skids to a
 quick stop on the other side of him and swings around to face him again.
 
-Aticus leaps towards Derrick and swings his sword at the wraith that attacked
+Aticus leaps towards Coriol and swings his sword at the wraith that attacked
 him. His sword smashes into it, and the wraith disintegrates with a sound like
 shattering ice, spraying dark blue blood and shedding splinters of ice. Igni
 starts the incantation for brimstone cascade, raising his hands and chanting
@@ -265,7 +265,7 @@ golden trail of glittering light trails upwards from it, dancing and shimmering
 in the winter air, and I wonder distantly what spell they're attempting.
 
 Aticus, fighting through the freezing spider web that binds him, takes a step
-towards Flard and swings his sword through the center of one of the wights,
+towards Flare and swings his sword through the center of one of the wights,
 shattering it on impact. Igni raises his crossbow and fires, the bolt flying
 straight into a wight's eye, taking its whole head off with its momentum.
 Flare, suddenly finding himself free of enemies, charges towards another wight,
