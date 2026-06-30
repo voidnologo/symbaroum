@@ -379,11 +379,10 @@ us, or their lives are forfeit."
 I waver, my grip on my pike loosening, but Coriol calls back, "You're going to
 kill them anyway!" and flexes his fingers.
 
-He draws his dagger with his free
-hand and lunges forward to stab at the Black Cloak in front of us. The Black
-Cloak grits his teeth and backs out of the room, slamming the door behind him.
-A moment later, we hear a loud scraping, as if something heavy is being pushed
-in front of the door.
+He draws his dagger with his free hand and lunges forward to stab at the Black
+Cloak in front of us. The Black Cloak grits his teeth and backs out of the room,
+slamming the door behind him.  A moment later, we hear a loud scraping, as if
+something heavy is being pushed in front of the door.
 
 I pull the mirror from inside my robes, muttering a prayer and focusing holy
 light towards the door. The wood flames red for an instant before a large chunk
