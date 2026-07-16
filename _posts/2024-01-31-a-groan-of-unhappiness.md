@@ -41,17 +41,17 @@ non-descript building, bearing no outward signs of being a religious building,
 built with stone and overgrown with ivy. There is almost no one around,
 everyone too busy celebrating the feast in the rest of the city.
 
-"Oh, wait, we should go ask about large quantities of fire oil!" Aticus
+"Oh, wait, we should go ask about large quantities of fire oil!" Baldric
 interjects, clearly looking for a way out of experiencing The Chapel.
 
 "Yes! We _should_ go ask about large quantities of fire oil! I'll go get Flare
-and we can go to the docks!" And just like that, Igni and Aticus are gone,
+and we can go to the docks!" And just like that, Igni and Baldric are gone,
 leaving me and Coriol to face The Chapel alone.
 
 Part of me is relieved that Coriol and I are the only ones walking into The
 Chapel. Although I don't believe in the gods the Barbarians worship, there is
 still something solemn and sacred about the small building - something Igni and
-Aticus don't quite understand.
+Baldric don't quite understand.
 
 As we open the door to the small building, I first notice the peaceful
 atmosphere.  There is a welcoming hearth in the central area with a couple
@@ -201,9 +201,9 @@ them to me."
 
 ---
 
-I later learned of Igni and Aticus's activities while Coriol and I were at The
+I later learned of Igni and Baldric's activities while Coriol and I were at The
 Chapel. After going to the docks to inquire about which families were selling
-large quantities of fire oil and rousing plenty of suspicion, Igni and Aticus
+large quantities of fire oil and rousing plenty of suspicion, Igni and Baldric
 decided to split up for a while.
 
 Igni and Flare headed to the Ordo Magicka tower to see if they could see into
@@ -219,7 +219,7 @@ may as well have been a "fart in the breeze" (their words, not mine). The Black
 Cloaks were moving with purpose, north out of the city and towards the Barbarian
 dwellings.
 
-Aticus decided to wander around the city and see if he could spot any suspcious
+Baldric decided to wander around the city and see if he could spot any suspcious
 Black Cloak activity. As he wandered, he happened to see a very short cloaked
 figure and a very tall cloaked figure hurrying along the streets side by side
 about a block and a half away from him. He turned to walk parallel to them,
@@ -232,15 +232,15 @@ struggling to keep pace with the relentless speed of the Black Cloaks. By this
 time, it was obvious that they were heading in the general direction of The
 Chapel. Sprinting footsteps started behind him, getting closer each second,
 and One hand flew to his sword, the other raising his staff menacingly. Just
-as he was about to start unleashing fire on the entire street around him, Aticus
+as he was about to start unleashing fire on the entire street around him, Baldric
 skidded around a conrner, and Igni sighed with relief.
 
-"What's happening?" Aticus asks as he stops beside Igni and Flare.
+"What's happening?" Baldric asks as he stops beside Igni and Flare.
 
 "Black Cloaks," Igni wheezes. "I think they're headed to The Chapel. You go on
 ahead, we'll catch up."
 
-Aticus sprints down the road, Igni doing his best to keep up.
+Baldric sprints down the road, Igni doing his best to keep up.
 
 As they run, Igni starts to hear troubling whispers, rumors of the Duke
 postponing his speech for the first time that anyone can remember...
@@ -304,7 +304,7 @@ taking a step back and demanding, "Throw your weapons down and come out!"
 darkness. Again, throw down your weapons and come out! Or we will kill you where
 you stand."
 
-I can't help but smirk, even as I offer up silent prayers and Igni and Aticus
+I can't help but smirk, even as I offer up silent prayers and Igni and Baldric
 will return in time. "Well, you can try."
 
 Coriol waves his hands, and _poof_, the Black Cloak before us is a turtle. As he
@@ -322,16 +322,16 @@ out, "Take them down! Take them down!"
 
 ---
 
-Above us, Aticus bursts through the front door of The Chapel to find a grisly
+Above us, Baldric bursts through the front door of The Chapel to find a grisly
 scene. With Coriol and I trapped downstairs, the Black Cloaks have been
 gruesomely murdering the civilians upstairs. Grimacing at the gore, he calls out
 for us, but there is no response. He pulls out his warhammer and steps
 menacingly into the room. The Black Cloaks turn towards him, approaching with
 drawn weapons and wary expressions. One leaps towards him, slashing first at his
 face and then at his midsection, barely scratching him. The other two leap in
-unison, trying to avoid the whirling of Aticus's mighty warhammer until one
-manages to flick Aticus's wrist, sending the warhammer thudding to the ground.
-Without hesitation, Aticus pulls out his sword, ready to do what is necessary.
+unison, trying to avoid the whirling of Baldric's mighty warhammer until one
+manages to flick Baldric's wrist, sending the warhammer thudding to the ground.
+Without hesitation, Baldric pulls out his sword, ready to do what is necessary.
 
 The three Black Cloaks work in a terrifying unison, feinting and slipping in
 between one another to slash viciously at our strong man, but to no avail. He
@@ -344,7 +344,7 @@ follows a moment later, pausing in the doorway to catch his breath before
 raising his hands to call fire and brimstone from the sky. It rains down on the
 three Black Cloaks, and one stumbles backward with a cry of pain. Another
 lunges at Flare, just managing to stick his sword between the pieces of the
-flame spirit's armor. The last one swings at Aticus, his sword hitting twice
+flame spirit's armor. The last one swings at Baldric, his sword hitting twice
 but skittering away uselessly each time. Flare slashes his attacker with his
 sword and swings his shield at him, his flames brightening menacingly.
 

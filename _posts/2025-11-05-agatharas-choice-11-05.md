@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Agathara's Choice"
-description: "TBD"
+description: ""
 category: adventures
 ---
 
