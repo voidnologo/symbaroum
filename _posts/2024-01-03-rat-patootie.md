@@ -53,9 +53,8 @@ the only signature before rolling up the scroll. "What do you all think?"
 that." I can tell Igni's initial ideas all include fire from the devious
 smile playing across his lips.
 
-"That whole section of the city is barricaded and patrolled." Aticus passes his
-warhammer from hand to hand effortlessly, as if already imagining all the skulls
-he can smash.
+"That whole section of the city is barricaded and patrolled." Baldric passes his
+warhammer from hand to hand, as if already imagining all the skulls he can smash.
 
 "And there are the curfews." Coriol drums his fingers on his thigh, doubtless
 picturing the mass squirreling that could be.
@@ -131,7 +130,8 @@ Lasaro doesn't even hesitate. "I will. You may come back tomorrow, after
 I ask the queen about this." He lowers his head to read the scroll spread across
 the desk; we don't need a clearer dismissal.
 
-In the safety of our rooms at the inn, Aticus rolls out a blank piece of paper
+<!-- TODO: make this sound dumber -->
+In the safety of our rooms at the inn, Baldric rolls out a blank piece of paper
 and starts sketching. "I got a pretty good idea of the defenses while we were
 inside. There are active patrols which stop frequently at the fires, which are
 spaced about 30 feet apart. The townspeople also use the fires to warm
@@ -179,10 +179,10 @@ continues, "the Twilight Monestary would be much more likely to have older
 records on Symbar."
 
 When we arrive in the archives, Coriol and I set up camp at a table as Igni
-takes a quick inventory of the room and Aticus and Flare take a deceptively
+takes a quick inventory of the room and Baldric and Flare take deceptively
 casual posts at the door. We spend a few hours at the table, Igni and Coriol
 working their way through the texts, me offering insights on the religious
-jargon and references to holy texts, Aticus and Flare guarding the door.
+jargon and references to holy texts.
 
 "There's nothing here," Igni murmurs after a couple hours, "and we're not
 getting any closer to the box."
@@ -216,27 +216,27 @@ plate of fresh-baked cookies, and leave the cathedral grounds.
 
 "This looks like as good a place as any."
 
-I look around at the area Aticus has indicated, less than convinced. It's nearly
+I look around at the area Baldric has indicated, less than convinced. It's nearly
 dusk, almost time for the city curfew, and we're standing in an alley inspecting
 the nearby rooftops.
 
 "Oh come on," he says, clearly registering the doubt on my face. "It'll be
 fine."
 
-I sigh and climb up on a bag of trash to give myself a head start. Aticus leaps
+I sigh and climb up on a bag of trash to give myself a head start. Baldric leaps
 onto the roof in one easy motion, catching the ledge and pulling himself up
-effortlessly. Igni, Coriol, and I try to follow much less successfully. The
-three of us land on the ground in a tangled heap, causing a huge ruckus on the
-way down. Townspeople start to poke their heads around the corners at the end
-of the alley, and more than a few curtains slip to the side to allow those
-inside a view.
+without a struggle or a second thought for the rest of us. Igni, Coriol, and I
+try to follow much less successfully. The three of us land on the ground in a
+tangled heap, causing a huge ruckus on the way down. Townspeople start to poke
+their heads around the corners at the end of the alley, and more than a few
+curtains slip to the side to allow those inside a view.
 
 "Oy, what are you doing there?" A man leans out of the doorway of the building,
 shaking his fist. "Get off my roof and get ye gone!"
 
-Aticus slides off the roof as if he does it every day and casually strolls down
-the alley, the three of us trying to look as dignified as possible while still
-brushing snow and trash off our backs.
+Baldric slides off the roof as if he does it every day and casually strolls down
+the alley, leaving the three of us behind to try to look as dignified as possible
+while still brushing snow and trash off our backs.
 
 "You know, I _could_ just turn you all into rats, stick you in my pockets, and
 walk right past the guards," Coriol mutters, almost under his breath.
@@ -245,7 +245,7 @@ walk right past the guards," Coriol mutters, almost under his breath.
 
 "Yeah, I could make myself look like a guard and just walk right in."
 
-I reach out to grab Aticus's cloak, pulling him back to where the rest of us
+I reach out to grab Baldric's cloak, pulling him back to where the rest of us
 have stopped. "You mean you can just... make yourself look like someone else?"
 
 "You could have done it this _whole time_?" Igni's cheeks redden, and the ends
@@ -274,7 +274,7 @@ scamper out of his pockets and race across the hard-packed snow to the rubble.
 It's almost too easy to locate the stairway Deseba described and find the door
 bearing the words "Archive 104". I use Gardovan's Mind Ring to tell Coriol we've
 found it and almost instantly feel my body lengthening until I am Confessor
-Agathara once more. I brush a few stray rat hairs off my cloak as Aticus tries
+Agathara once more. I brush a few stray rat hairs off my cloak as Baldric tries
 the door.
 
 "It's even unlocked!" He pumps his fist happily and swings the door open.
@@ -289,14 +289,14 @@ it is.
 "Ooh, dust prints," Igni whispers, indicating the perfect clean rectangle of
 shelf where the box had obviously lain for years.
 
-"Not a problem." Aticus slips into the hallway and returns a moment later with
+"Not a problem." Baldric slips into the hallway and returns a moment later with
 a small handful of debris, which he sprinkles over the spot. "Now no one will
 be the wiser."
 
 "Perfect, let's go." Carrying the box, I lead our group up the stairs. We
 crouch at the top, waiting and watching anxiously for Coriol to return.
 
-"There he is!" In his excitement, Aticus waves too broadly and knocks a
+"There he is!" In his excitement, Baldric waves too broadly and knocks a
 precariously stacked rock off a nearby pile of rubble. It clatters down the
 steps, echoing with every bounce against the stone. Igni and I wince and hold
 our breath as it _tock tock tocks_ down the staircase.
